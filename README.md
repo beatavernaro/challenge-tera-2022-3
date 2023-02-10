@@ -1,4 +1,7 @@
 # Desafio Dev Incrivel - HTML, CSS e JS
+Desafio criado por mim para os alunos do bootcamp de desenvolvimento full stack da Tera. A ideia é apresentar um front end básico para os alunos melhorarem e implementarem os requisitos abaixo.
+
+### Instruções
 Você deverá criar a lógida da calculadora de simulação de crédito implementada neste projeto.
 
 A interface está previamente definida, assim como os estilos.
